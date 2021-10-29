@@ -1,4 +1,4 @@
-# Text Classification - Lab
+# Text Classification - Cumulative Lab
 
 ## Introduction
 
