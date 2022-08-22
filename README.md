@@ -262,22 +262,22 @@ train_sample.style.set_properties(**{'text-align': 'left'})
 
 
 <style  type="text/css" >
-#T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow0_col0,#T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow0_col1,#T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow1_col0,#T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow1_col1,#T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow2_col0,#T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow2_col1,#T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow3_col0,#T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow3_col1,#T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow4_col0,#T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow4_col1{
+#T_83cd4414_2263_11ed_896f_94f6d61123bcrow0_col0,#T_83cd4414_2263_11ed_896f_94f6d61123bcrow0_col1,#T_83cd4414_2263_11ed_896f_94f6d61123bcrow1_col0,#T_83cd4414_2263_11ed_896f_94f6d61123bcrow1_col1,#T_83cd4414_2263_11ed_896f_94f6d61123bcrow2_col0,#T_83cd4414_2263_11ed_896f_94f6d61123bcrow2_col1,#T_83cd4414_2263_11ed_896f_94f6d61123bcrow3_col0,#T_83cd4414_2263_11ed_896f_94f6d61123bcrow3_col1,#T_83cd4414_2263_11ed_896f_94f6d61123bcrow4_col0,#T_83cd4414_2263_11ed_896f_94f6d61123bcrow4_col1{
             text-align:  left;
-        }</style><table id="T_75cf573a_81d3_11eb_adbd_94f6d61123bc"  class="tex2jax_ignore"><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >text</th>        <th class="col_heading level0 col1" >label</th>    </tr></thead><tbody>
+        }</style><table id="T_83cd4414_2263_11ed_896f_94f6d61123bc"  class="tex2jax_ignore"><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >text</th>        <th class="col_heading level0 col1" >label</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_75cf573a_81d3_11eb_adbd_94f6d61123bclevel0_row0" class="row_heading level0 row0" >1300</th>
-                        <td id="T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow0_col0" class="data row0 col0" >
+                        <th id="T_83cd4414_2263_11ed_896f_94f6d61123bclevel0_row0" class="row_heading level0 row0" >1300</th>
+                        <td id="T_83cd4414_2263_11ed_896f_94f6d61123bcrow0_col0" class="data row0 col0" >
 
 
    Ncd has an excellent document titled "Host Loading Considerations in the X 
   environment". I received my copy by emailing support@ncd.com. This may
   help out.</td>
-                        <td id="T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow0_col1" class="data row0 col1" >0</td>
+                        <td id="T_83cd4414_2263_11ed_896f_94f6d61123bcrow0_col1" class="data row0 col1" >0</td>
             </tr>
             <tr>
-                        <th id="T_75cf573a_81d3_11eb_adbd_94f6d61123bclevel0_row1" class="row_heading level0 row1" >1758</th>
-                        <td id="T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow1_col0" class="data row1 col0" >
+                        <th id="T_83cd4414_2263_11ed_896f_94f6d61123bclevel0_row1" class="row_heading level0 row1" >1758</th>
+                        <td id="T_83cd4414_2263_11ed_896f_94f6d61123bcrow1_col0" class="data row1 col0" >
 
 
            You don't have to.  *It*  believes in YOU.
@@ -299,11 +299,11 @@ train_sample.style.set_properties(**{'text-align': 'left'})
 
 
 </td>
-                        <td id="T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow1_col1" class="data row1 col1" >4</td>
+                        <td id="T_83cd4414_2263_11ed_896f_94f6d61123bcrow1_col1" class="data row1 col1" >4</td>
             </tr>
             <tr>
-                        <th id="T_75cf573a_81d3_11eb_adbd_94f6d61123bclevel0_row2" class="row_heading level0 row2" >2558</th>
-                        <td id="T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow2_col0" class="data row2 col0" >Miscellaneous comics for sale. I really would like
+                        <th id="T_83cd4414_2263_11ed_896f_94f6d61123bclevel0_row2" class="row_heading level0 row2" >2558</th>
+                        <td id="T_83cd4414_2263_11ed_896f_94f6d61123bcrow2_col0" class="data row2 col0" >Miscellaneous comics for sale. I really would like
 to get rid of these for lack of space. Buyer pays
 shipping, and all offers considered. OH, and the
 first purchase over $20 in any of my posts
@@ -348,11 +348,11 @@ Spec. spider-man      189     3.00 (special hologram)
 
 Let me know if you'd like to buy anything. My
 address is U38134@uicvm.uic.edu</td>
-                        <td id="T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow2_col1" class="data row2 col1" >1</td>
+                        <td id="T_83cd4414_2263_11ed_896f_94f6d61123bcrow2_col1" class="data row2 col1" >1</td>
             </tr>
             <tr>
-                        <th id="T_75cf573a_81d3_11eb_adbd_94f6d61123bclevel0_row3" class="row_heading level0 row3" >2267</th>
-                        <td id="T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow3_col0" class="data row3 col0" >
+                        <th id="T_83cd4414_2263_11ed_896f_94f6d61123bclevel0_row3" class="row_heading level0 row3" >2267</th>
+                        <td id="T_83cd4414_2263_11ed_896f_94f6d61123bcrow3_col0" class="data row3 col0" >
 
 My vote goes to Andy Moog 1st, Belfour 2nd, Vanbiesbrouck 3rd
 
@@ -360,11 +360,11 @@ The Bruin's are hot at just the right time !!!!!
 
 
 rich beskosty</td>
-                        <td id="T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow3_col1" class="data row3 col1" >2</td>
+                        <td id="T_83cd4414_2263_11ed_896f_94f6d61123bcrow3_col1" class="data row3 col1" >2</td>
             </tr>
             <tr>
-                        <th id="T_75cf573a_81d3_11eb_adbd_94f6d61123bclevel0_row4" class="row_heading level0 row4" >1043</th>
-                        <td id="T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow4_col0" class="data row4 col0" >
+                        <th id="T_83cd4414_2263_11ed_896f_94f6d61123bclevel0_row4" class="row_heading level0 row4" >1043</th>
+                        <td id="T_83cd4414_2263_11ed_896f_94f6d61123bcrow4_col0" class="data row4 col0" >
 
 Yes, "Clipper" is a trademark of Intergraph.  Its the RISC chip used
 in some of thier workstations. 
@@ -372,7 +372,7 @@ in some of thier workstations.
 I wonder what Intergraph is going to do to this infringement on thier
 name sake?
 </td>
-                        <td id="T_75cf573a_81d3_11eb_adbd_94f6d61123bcrow4_col1" class="data row4 col1" >3</td>
+                        <td id="T_83cd4414_2263_11ed_896f_94f6d61123bcrow4_col1" class="data row4 col1" >3</td>
             </tr>
     </tbody></table>
 
@@ -446,22 +446,22 @@ train_sample.style.set_properties(**{'text-align': 'left'})
 
 
 <style  type="text/css" >
-#T_8336926c_81d3_11eb_adbd_94f6d61123bcrow0_col0,#T_8336926c_81d3_11eb_adbd_94f6d61123bcrow0_col1,#T_8336926c_81d3_11eb_adbd_94f6d61123bcrow1_col0,#T_8336926c_81d3_11eb_adbd_94f6d61123bcrow1_col1,#T_8336926c_81d3_11eb_adbd_94f6d61123bcrow2_col0,#T_8336926c_81d3_11eb_adbd_94f6d61123bcrow2_col1,#T_8336926c_81d3_11eb_adbd_94f6d61123bcrow3_col0,#T_8336926c_81d3_11eb_adbd_94f6d61123bcrow3_col1,#T_8336926c_81d3_11eb_adbd_94f6d61123bcrow4_col0,#T_8336926c_81d3_11eb_adbd_94f6d61123bcrow4_col1{
+#T_88e910ae_2263_11ed_896f_94f6d61123bcrow0_col0,#T_88e910ae_2263_11ed_896f_94f6d61123bcrow0_col1,#T_88e910ae_2263_11ed_896f_94f6d61123bcrow1_col0,#T_88e910ae_2263_11ed_896f_94f6d61123bcrow1_col1,#T_88e910ae_2263_11ed_896f_94f6d61123bcrow2_col0,#T_88e910ae_2263_11ed_896f_94f6d61123bcrow2_col1,#T_88e910ae_2263_11ed_896f_94f6d61123bcrow3_col0,#T_88e910ae_2263_11ed_896f_94f6d61123bcrow3_col1,#T_88e910ae_2263_11ed_896f_94f6d61123bcrow4_col0,#T_88e910ae_2263_11ed_896f_94f6d61123bcrow4_col1{
             text-align:  left;
-        }</style><table id="T_8336926c_81d3_11eb_adbd_94f6d61123bc"  class="tex2jax_ignore"><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >text</th>        <th class="col_heading level0 col1" >label</th>    </tr></thead><tbody>
+        }</style><table id="T_88e910ae_2263_11ed_896f_94f6d61123bc"  class="tex2jax_ignore"><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >text</th>        <th class="col_heading level0 col1" >label</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_8336926c_81d3_11eb_adbd_94f6d61123bclevel0_row0" class="row_heading level0 row0" >1300</th>
-                        <td id="T_8336926c_81d3_11eb_adbd_94f6d61123bcrow0_col0" class="data row0 col0" >
+                        <th id="T_88e910ae_2263_11ed_896f_94f6d61123bclevel0_row0" class="row_heading level0 row0" >1300</th>
+                        <td id="T_88e910ae_2263_11ed_896f_94f6d61123bcrow0_col0" class="data row0 col0" >
 
 
    ncd has an excellent document titled "host loading considerations in the x 
   environment". i received my copy by emailing support@ncd.com. this may
   help out.</td>
-                        <td id="T_8336926c_81d3_11eb_adbd_94f6d61123bcrow0_col1" class="data row0 col1" >0</td>
+                        <td id="T_88e910ae_2263_11ed_896f_94f6d61123bcrow0_col1" class="data row0 col1" >0</td>
             </tr>
             <tr>
-                        <th id="T_8336926c_81d3_11eb_adbd_94f6d61123bclevel0_row1" class="row_heading level0 row1" >1758</th>
-                        <td id="T_8336926c_81d3_11eb_adbd_94f6d61123bcrow1_col0" class="data row1 col0" >
+                        <th id="T_88e910ae_2263_11ed_896f_94f6d61123bclevel0_row1" class="row_heading level0 row1" >1758</th>
+                        <td id="T_88e910ae_2263_11ed_896f_94f6d61123bcrow1_col0" class="data row1 col0" >
 
 
            you don't have to.  *it*  believes in you.
@@ -483,11 +483,11 @@ train_sample.style.set_properties(**{'text-align': 'left'})
 
 
 </td>
-                        <td id="T_8336926c_81d3_11eb_adbd_94f6d61123bcrow1_col1" class="data row1 col1" >4</td>
+                        <td id="T_88e910ae_2263_11ed_896f_94f6d61123bcrow1_col1" class="data row1 col1" >4</td>
             </tr>
             <tr>
-                        <th id="T_8336926c_81d3_11eb_adbd_94f6d61123bclevel0_row2" class="row_heading level0 row2" >2558</th>
-                        <td id="T_8336926c_81d3_11eb_adbd_94f6d61123bcrow2_col0" class="data row2 col0" >miscellaneous comics for sale. i really would like
+                        <th id="T_88e910ae_2263_11ed_896f_94f6d61123bclevel0_row2" class="row_heading level0 row2" >2558</th>
+                        <td id="T_88e910ae_2263_11ed_896f_94f6d61123bcrow2_col0" class="data row2 col0" >miscellaneous comics for sale. i really would like
 to get rid of these for lack of space. buyer pays
 shipping, and all offers considered. oh, and the
 first purchase over $20 in any of my posts
@@ -532,11 +532,11 @@ spec. spider-man      189     3.00 (special hologram)
 
 let me know if you'd like to buy anything. my
 address is u38134@uicvm.uic.edu</td>
-                        <td id="T_8336926c_81d3_11eb_adbd_94f6d61123bcrow2_col1" class="data row2 col1" >1</td>
+                        <td id="T_88e910ae_2263_11ed_896f_94f6d61123bcrow2_col1" class="data row2 col1" >1</td>
             </tr>
             <tr>
-                        <th id="T_8336926c_81d3_11eb_adbd_94f6d61123bclevel0_row3" class="row_heading level0 row3" >2267</th>
-                        <td id="T_8336926c_81d3_11eb_adbd_94f6d61123bcrow3_col0" class="data row3 col0" >
+                        <th id="T_88e910ae_2263_11ed_896f_94f6d61123bclevel0_row3" class="row_heading level0 row3" >2267</th>
+                        <td id="T_88e910ae_2263_11ed_896f_94f6d61123bcrow3_col0" class="data row3 col0" >
 
 my vote goes to andy moog 1st, belfour 2nd, vanbiesbrouck 3rd
 
@@ -544,11 +544,11 @@ the bruin's are hot at just the right time !!!!!
 
 
 rich beskosty</td>
-                        <td id="T_8336926c_81d3_11eb_adbd_94f6d61123bcrow3_col1" class="data row3 col1" >2</td>
+                        <td id="T_88e910ae_2263_11ed_896f_94f6d61123bcrow3_col1" class="data row3 col1" >2</td>
             </tr>
             <tr>
-                        <th id="T_8336926c_81d3_11eb_adbd_94f6d61123bclevel0_row4" class="row_heading level0 row4" >1043</th>
-                        <td id="T_8336926c_81d3_11eb_adbd_94f6d61123bcrow4_col0" class="data row4 col0" >
+                        <th id="T_88e910ae_2263_11ed_896f_94f6d61123bclevel0_row4" class="row_heading level0 row4" >1043</th>
+                        <td id="T_88e910ae_2263_11ed_896f_94f6d61123bcrow4_col0" class="data row4 col0" >
 
 yes, "clipper" is a trademark of intergraph.  its the risc chip used
 in some of thier workstations. 
@@ -556,7 +556,7 @@ in some of thier workstations.
 i wonder what intergraph is going to do to this infringement on thier
 name sake?
 </td>
-                        <td id="T_8336926c_81d3_11eb_adbd_94f6d61123bcrow4_col1" class="data row4 col1" >3</td>
+                        <td id="T_88e910ae_2263_11ed_896f_94f6d61123bcrow4_col1" class="data row4 col1" >3</td>
             </tr>
     </tbody></table>
 
@@ -683,23 +683,23 @@ train_sample.style.set_properties(**{'text-align': 'left'})
 
 
 <style  type="text/css" >
-#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow0_col0,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow0_col1,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow0_col2,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow1_col0,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow1_col1,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow1_col2,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow2_col0,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow2_col1,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow2_col2,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow3_col0,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow3_col1,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow3_col2,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow4_col0,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow4_col1,#T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow4_col2{
+#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow0_col0,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow0_col1,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow0_col2,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow1_col0,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow1_col1,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow1_col2,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow2_col0,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow2_col1,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow2_col2,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow3_col0,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow3_col1,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow3_col2,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow4_col0,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow4_col1,#T_ad3b776c_2263_11ed_896f_94f6d61123bcrow4_col2{
             text-align:  left;
-        }</style><table id="T_96af66d4_81d3_11eb_adbd_94f6d61123bc"  class="tex2jax_ignore"><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >text</th>        <th class="col_heading level0 col1" >label</th>        <th class="col_heading level0 col2" >text_tokenized</th>    </tr></thead><tbody>
+        }</style><table id="T_ad3b776c_2263_11ed_896f_94f6d61123bc"  class="tex2jax_ignore"><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >text</th>        <th class="col_heading level0 col1" >label</th>        <th class="col_heading level0 col2" >text_tokenized</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_96af66d4_81d3_11eb_adbd_94f6d61123bclevel0_row0" class="row_heading level0 row0" >1300</th>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow0_col0" class="data row0 col0" >
+                        <th id="T_ad3b776c_2263_11ed_896f_94f6d61123bclevel0_row0" class="row_heading level0 row0" >1300</th>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow0_col0" class="data row0 col0" >
 
 
    ncd has an excellent document titled "host loading considerations in the x 
   environment". i received my copy by emailing support@ncd.com. this may
   help out.</td>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow0_col1" class="data row0 col1" >0</td>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow0_col2" class="data row0 col2" >['ncd', 'has', 'an', 'excellent', 'document', 'titled', 'host', 'loading', 'considerations', 'in', 'the', 'environment', 'received', 'my', 'copy', 'by', 'emailing', 'support', 'ncd', 'com', 'this', 'may', 'help', 'out']</td>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow0_col1" class="data row0 col1" >0</td>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow0_col2" class="data row0 col2" >['ncd', 'has', 'an', 'excellent', 'document', 'titled', 'host', 'loading', 'considerations', 'in', 'the', 'environment', 'received', 'my', 'copy', 'by', 'emailing', 'support', 'ncd', 'com', 'this', 'may', 'help', 'out']</td>
             </tr>
             <tr>
-                        <th id="T_96af66d4_81d3_11eb_adbd_94f6d61123bclevel0_row1" class="row_heading level0 row1" >1758</th>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow1_col0" class="data row1 col0" >
+                        <th id="T_ad3b776c_2263_11ed_896f_94f6d61123bclevel0_row1" class="row_heading level0 row1" >1758</th>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow1_col0" class="data row1 col0" >
 
 
            you don't have to.  *it*  believes in you.
@@ -721,12 +721,12 @@ train_sample.style.set_properties(**{'text-align': 'left'})
 
 
 </td>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow1_col1" class="data row1 col1" >4</td>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow1_col2" class="data row1 col2" >['you', 'don', 'have', 'to', 'it', 'believes', 'in', 'you', 'well', 'looking', 'at', 'our', 'new', 'government', 'pals', 'inclined', 'to', 'agree', 'don', 'much', 'believe', 'in', 'our', 'money', 'either', 'oh', 'ho', 'ho', 'if', 'only', 'you', 'knew', 'yup', 'definitely', 'checking', 'out', 'foreign', 'currency', 'thanks', 'to', 'to', 'this', 'newsgroup', 'it', 'sure', 'doesn', 'take', 'much', 'thinking', 'to', 'realize', 'what', 'direction', 'the', 'is', 'headed']</td>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow1_col1" class="data row1 col1" >4</td>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow1_col2" class="data row1 col2" >['you', 'don', 'have', 'to', 'it', 'believes', 'in', 'you', 'well', 'looking', 'at', 'our', 'new', 'government', 'pals', 'inclined', 'to', 'agree', 'don', 'much', 'believe', 'in', 'our', 'money', 'either', 'oh', 'ho', 'ho', 'if', 'only', 'you', 'knew', 'yup', 'definitely', 'checking', 'out', 'foreign', 'currency', 'thanks', 'to', 'to', 'this', 'newsgroup', 'it', 'sure', 'doesn', 'take', 'much', 'thinking', 'to', 'realize', 'what', 'direction', 'the', 'is', 'headed']</td>
             </tr>
             <tr>
-                        <th id="T_96af66d4_81d3_11eb_adbd_94f6d61123bclevel0_row2" class="row_heading level0 row2" >2558</th>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow2_col0" class="data row2 col0" >miscellaneous comics for sale. i really would like
+                        <th id="T_ad3b776c_2263_11ed_896f_94f6d61123bclevel0_row2" class="row_heading level0 row2" >2558</th>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow2_col0" class="data row2 col0" >miscellaneous comics for sale. i really would like
 to get rid of these for lack of space. buyer pays
 shipping, and all offers considered. oh, and the
 first purchase over $20 in any of my posts
@@ -771,12 +771,12 @@ spec. spider-man      189     3.00 (special hologram)
 
 let me know if you'd like to buy anything. my
 address is u38134@uicvm.uic.edu</td>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow2_col1" class="data row2 col1" >1</td>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow2_col2" class="data row2 col2" >['miscellaneous', 'comics', 'for', 'sale', 'really', 'would', 'like', 'to', 'get', 'rid', 'of', 'these', 'for', 'lack', 'of', 'space', 'buyer', 'pays', 'shipping', 'and', 'all', 'offers', 'considered', 'oh', 'and', 'the', 'first', 'purchase', 'over', '20', 'in', 'any', 'of', 'my', 'posts', 'gets', 'free', 'maxx', 'coupon', 'or', 'trashed', 'copy', 'of', 'amazing', 'spidey', '300', 'here', 'goes', 'deathlok', '00', '17', '75', 'each', 'annual', '50', 'special', '00', 'sleepwalker', '13', '00', 'set', 'or', '25', 'each', 'next', 'men', '00', 'ray', '00', 'deathstroke', '75', 'each', 'darkhawk', '13', '25', 'new', 'warrior', '18', '00', 'fantasti', 'four', '358', '50', 'moon', 'knight', '35', '36', '75', 'each', 'hulk', '386', '388', '50', 'each', 'punisher', '50', 'cage', '50', 'force', '00', 'silver', 'sable', '00', 'calibur', '26', '27', '48', '49', '50', 'each', 'hearts', 'of', 'darkness', '00', 'infinity', 'guantlet', '50', 'each', 'batman', 'pred', '00', 'each', 'deluxe', '00', 'guardians', 'of', 'the', 'galaxy', '00', 'spider', 'man', '2099', '00', 'set', 'spec', 'spider', 'man', '189', '00', 'special', 'hologram', 'let', 'me', 'know', 'if', 'you', 'like', 'to', 'buy', 'anything', 'my', 'address', 'is', 'u38134', 'uicvm', 'uic', 'edu']</td>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow2_col1" class="data row2 col1" >1</td>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow2_col2" class="data row2 col2" >['miscellaneous', 'comics', 'for', 'sale', 'really', 'would', 'like', 'to', 'get', 'rid', 'of', 'these', 'for', 'lack', 'of', 'space', 'buyer', 'pays', 'shipping', 'and', 'all', 'offers', 'considered', 'oh', 'and', 'the', 'first', 'purchase', 'over', '20', 'in', 'any', 'of', 'my', 'posts', 'gets', 'free', 'maxx', 'coupon', 'or', 'trashed', 'copy', 'of', 'amazing', 'spidey', '300', 'here', 'goes', 'deathlok', '00', '17', '75', 'each', 'annual', '50', 'special', '00', 'sleepwalker', '13', '00', 'set', 'or', '25', 'each', 'next', 'men', '00', 'ray', '00', 'deathstroke', '75', 'each', 'darkhawk', '13', '25', 'new', 'warrior', '18', '00', 'fantasti', 'four', '358', '50', 'moon', 'knight', '35', '36', '75', 'each', 'hulk', '386', '388', '50', 'each', 'punisher', '50', 'cage', '50', 'force', '00', 'silver', 'sable', '00', 'calibur', '26', '27', '48', '49', '50', 'each', 'hearts', 'of', 'darkness', '00', 'infinity', 'guantlet', '50', 'each', 'batman', 'pred', '00', 'each', 'deluxe', '00', 'guardians', 'of', 'the', 'galaxy', '00', 'spider', 'man', '2099', '00', 'set', 'spec', 'spider', 'man', '189', '00', 'special', 'hologram', 'let', 'me', 'know', 'if', 'you', 'like', 'to', 'buy', 'anything', 'my', 'address', 'is', 'u38134', 'uicvm', 'uic', 'edu']</td>
             </tr>
             <tr>
-                        <th id="T_96af66d4_81d3_11eb_adbd_94f6d61123bclevel0_row3" class="row_heading level0 row3" >2267</th>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow3_col0" class="data row3 col0" >
+                        <th id="T_ad3b776c_2263_11ed_896f_94f6d61123bclevel0_row3" class="row_heading level0 row3" >2267</th>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow3_col0" class="data row3 col0" >
 
 my vote goes to andy moog 1st, belfour 2nd, vanbiesbrouck 3rd
 
@@ -784,12 +784,12 @@ the bruin's are hot at just the right time !!!!!
 
 
 rich beskosty</td>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow3_col1" class="data row3 col1" >2</td>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow3_col2" class="data row3 col2" >['my', 'vote', 'goes', 'to', 'andy', 'moog', '1st', 'belfour', '2nd', 'vanbiesbrouck', '3rd', 'the', 'bruin', 'are', 'hot', 'at', 'just', 'the', 'right', 'time', 'rich', 'beskosty']</td>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow3_col1" class="data row3 col1" >2</td>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow3_col2" class="data row3 col2" >['my', 'vote', 'goes', 'to', 'andy', 'moog', '1st', 'belfour', '2nd', 'vanbiesbrouck', '3rd', 'the', 'bruin', 'are', 'hot', 'at', 'just', 'the', 'right', 'time', 'rich', 'beskosty']</td>
             </tr>
             <tr>
-                        <th id="T_96af66d4_81d3_11eb_adbd_94f6d61123bclevel0_row4" class="row_heading level0 row4" >1043</th>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow4_col0" class="data row4 col0" >
+                        <th id="T_ad3b776c_2263_11ed_896f_94f6d61123bclevel0_row4" class="row_heading level0 row4" >1043</th>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow4_col0" class="data row4 col0" >
 
 yes, "clipper" is a trademark of intergraph.  its the risc chip used
 in some of thier workstations. 
@@ -797,8 +797,8 @@ in some of thier workstations.
 i wonder what intergraph is going to do to this infringement on thier
 name sake?
 </td>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow4_col1" class="data row4 col1" >3</td>
-                        <td id="T_96af66d4_81d3_11eb_adbd_94f6d61123bcrow4_col2" class="data row4 col2" >['yes', 'clipper', 'is', 'trademark', 'of', 'intergraph', 'its', 'the', 'risc', 'chip', 'used', 'in', 'some', 'of', 'thier', 'workstations', 'wonder', 'what', 'intergraph', 'is', 'going', 'to', 'do', 'to', 'this', 'infringement', 'on', 'thier', 'name', 'sake']</td>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow4_col1" class="data row4 col1" >3</td>
+                        <td id="T_ad3b776c_2263_11ed_896f_94f6d61123bcrow4_col2" class="data row4 col2" >['yes', 'clipper', 'is', 'trademark', 'of', 'intergraph', 'its', 'the', 'risc', 'chip', 'used', 'in', 'some', 'of', 'thier', 'workstations', 'wonder', 'what', 'intergraph', 'is', 'going', 'to', 'do', 'to', 'this', 'infringement', 'on', 'thier', 'name', 'sake']</td>
             </tr>
     </tbody></table>
 
@@ -901,7 +901,9 @@ visualize_top_10(example_freq_dist, "Top 10 Word Frequency for Example Tokens")
 ```
 
 
+    
 ![png](index_files/index_43_0.png)
+    
 
 
 Interpreting the chart above is a bit artificial, since this sample only included 20 tokens. But essentially this is saying that the token with the highest frequency in our example is `"is"`, which occurred twice.
@@ -946,7 +948,9 @@ visualize_top_10(sample_freq_dist, "Top 10 Word Frequency for 5 Samples")
 ```
 
 
+    
 ![png](index_files/index_48_0.png)
+    
 
 
 Note that `"00"` and `"50"` are both in the top 10 tokens, due to many prices appearing in the `misc.forsale` example.
@@ -964,7 +968,9 @@ visualize_top_10(train_freq_dist, "Top 10 Word Frequency for Full X_train")
 ```
 
 
+    
 ![png](index_files/index_50_0.png)
+    
 
 
 Ok great, we have a general sense of the word frequencies in our dataset!
@@ -1030,7 +1036,9 @@ fig.suptitle("Word Frequencies for All Tokens", fontsize=24);
 ```
 
 
+    
 ![png](index_files/index_52_0.png)
+    
 
 
 If these were unlabeled, would you be able to figure out which one matched with which category?
@@ -1332,7 +1340,10 @@ Once again, NLTK has a useful tool for this task. You can just import a list of 
 
 
 ```python
+import nltk
+nltk.download('stopwords', quiet=True)
 from nltk.corpus import stopwords
+
 
 stopwords_list = stopwords.words('english')
 stopwords_list[:20]
@@ -1427,7 +1438,9 @@ fig.suptitle("Word Frequencies without Stopwords", fontsize=24);
 ```
 
 
+    
 ![png](index_files/index_75_0.png)
+    
 
 
 Ok, this seems to answer our question. The most common words differ significantly between categories now, meaning that hopefully our model will have an easier time distinguishing between them.
@@ -1996,7 +2009,9 @@ fig.suptitle("Distributions of Sentence Counts by Category", fontsize=24);
 ```
 
 
+    
 ![png](index_files/index_101_0.png)
+    
 
 
 Does this seem like a useful feature? Maybe. The distributions differ a bit, but it's hard to know if our model will pick up on this information. Let's go ahead and keep it.
@@ -2021,7 +2036,9 @@ fig.suptitle("Distributions of Posts Containing Prices by Category", fontsize=24
 ```
 
 
+    
 ![png](index_files/index_104_0.png)
+    
 
 
 As we expected, the `misc.forsale` category looks pretty different from the others. More than half of those posts contain prices, whereas the overwhelming majority of posts in other categories do not contain prices. Let's include this in our final model.
@@ -2045,7 +2062,9 @@ fig.suptitle("Distributions of Posts Containing Emoticons by Category", fontsize
 ```
 
 
+    
 ![png](index_files/index_107_0.png)
+    
 
 
 Well, that was a lot less definitive. Emoticons are fairly rare across categories. But, there are some small differences so let's go ahead and keep it.
@@ -3079,7 +3098,9 @@ plot_confusion_matrix(final_model, final_X_test, y_test);
 ```
 
 
+    
 ![png](index_files/index_131_0.png)
+    
 
 
 Recall that these are the names associated with the labels:
