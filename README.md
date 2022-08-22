@@ -605,6 +605,8 @@ Once again, NLTK has a useful tool for this task. You can just import a list of 
 
 ```python
 # Run this cell without changes
+import nltk
+nltk.download('stopwords', quiet=True)
 from nltk.corpus import stopwords
 
 stopwords_list = stopwords.words('english')
