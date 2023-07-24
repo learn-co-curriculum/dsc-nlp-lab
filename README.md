@@ -1069,7 +1069,7 @@ tfidf = TfidfVectorizer(max_features=10)
 X_train_vectorized = tfidf.fit_transform(X_train["text"])
 
 # Visually inspect the vectorized data
-pd.DataFrame.sparse.from_spmatrix(X_train_vectorized, columns=tfidf.get_feature_names())
+pd.DataFrame.sparse.from_spmatrix(X_train_vectorized, columns=tfidf.get_feature_names_out())
 ```
 
 
@@ -1460,7 +1460,7 @@ tfidf = TfidfVectorizer(
 X_train_vectorized = tfidf.fit_transform(X_train["text"])
 
 # Visually inspect the vectorized data
-pd.DataFrame.sparse.from_spmatrix(X_train_vectorized, columns=tfidf.get_feature_names())
+pd.DataFrame.sparse.from_spmatrix(X_train_vectorized, columns=tfidf.get_feature_names_out())
 ```
 
 
@@ -1733,7 +1733,7 @@ tfidf = TfidfVectorizer(
 X_train_vectorized = tfidf.fit_transform(X_train["text"])
 
 # Visually inspect the vectorized data
-pd.DataFrame.sparse.from_spmatrix(X_train_vectorized, columns=tfidf.get_feature_names())
+pd.DataFrame.sparse.from_spmatrix(X_train_vectorized, columns=tfidf.get_feature_names_out())
 ```
 
 
@@ -2087,7 +2087,7 @@ tfidf = TfidfVectorizer(
 X_train_vectorized = tfidf.fit_transform(X_train["text"])
 
 # Create a full df of vectorized + engineered features
-X_train_vectorized_df = pd.DataFrame(X_train_vectorized.toarray(), columns=tfidf.get_feature_names())
+X_train_vectorized_df = pd.DataFrame(X_train_vectorized.toarray(), columns=tfidf.get_feature_names_out())
 preprocessed_X_train = pd.concat([
     X_train_vectorized_df, X_train[["num_sentences", "contains_price", "contains_emoticon"]]
 ], axis=1)
@@ -2373,7 +2373,7 @@ tfidf = TfidfVectorizer(
 X_train_vectorized = tfidf.fit_transform(X_train["text"])
 
 # Create a full df of vectorized + engineered features
-X_train_vectorized_df = pd.DataFrame(X_train_vectorized.toarray(), columns=tfidf.get_feature_names())
+X_train_vectorized_df = pd.DataFrame(X_train_vectorized.toarray(), columns=tfidf.get_feature_names_out())
 final_X_train = pd.concat([
     X_train_vectorized_df, X_train[["num_sentences", "contains_price", "contains_emoticon"]]
 ], axis=1)
@@ -2752,7 +2752,7 @@ Putting it all together:
 
 
 ```python
-X_test_vectorized_df = pd.DataFrame(X_test_vectorized.toarray(), columns=tfidf.get_feature_names())
+X_test_vectorized_df = pd.DataFrame(X_test_vectorized.toarray(), columns=tfidf.get_feature_names_out())
 final_X_test = pd.concat([
     X_test_vectorized_df, X_test[["num_sentences", "contains_price", "contains_emoticon"]]
 ], axis=1)
@@ -3093,8 +3093,12 @@ Plotting a confusion matrix:
 
 
 ```python
-from sklearn.metrics import plot_confusion_matrix
-plot_confusion_matrix(final_model, final_X_test, y_test);
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import ConfusionMatrixDisplay
+
+cnf_matrix = confusion_matrix(y_test, final_model.predict(final_X_test))
+disp = ConfusionMatrixDisplay(confusion_matrix=cnf_matrix, display_labels=final_model.classes_)
+disp.plot(cmap=plt.cm.Blues)
 ```
 
 
