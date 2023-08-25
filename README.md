@@ -40,7 +40,7 @@ Prior to preprocessing, every row in the dataset only contains one feature: a st
 
 As you might have guessed based on the function name, there are 20 categories in the full dataset. Here is a list of all the possible classes:
 
-<img src='classes.png'>
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/classes.png'>
 
 This full dataset is quite large. To save us from extremely long runtimes, we'll work with only a subset of the classes. For this lab, we'll work with the following five:
 
